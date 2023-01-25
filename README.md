@@ -8,7 +8,7 @@ Structure of folders should looks like:
 
 nameOfFolder.\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontend-app-main.\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;server-main.\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;server-main
   
 
 ## Quick start with project.
