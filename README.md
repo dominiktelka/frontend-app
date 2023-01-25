@@ -2,7 +2,13 @@
 
 This project was build with Typescript/Node.js and React.\
 
-## Remember to install this project in two folders. It have separated frontend and backend
+## Remember to install this project in two folders. It have separated frontend and backend.
+
+Structure of folders should looks like:
+
+nameOfFolder
+  frontend-app-main
+  server-main
 
 ## Quick start with project.
 
