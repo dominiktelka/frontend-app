@@ -6,9 +6,10 @@ This project was build with Typescript/Node.js and React.\
 
 Structure of folders should looks like:
 
-nameOfFolder
-  frontend-app-main
-  server-main
+nameOfFolder.\
+  frontend-app-main.\
+  server-main.\
+  
 
 ## Quick start with project.
 
