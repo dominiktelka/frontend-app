@@ -7,8 +7,8 @@ This project was build with Typescript/Node.js and React.\
 Structure of folders should looks like:
 
 nameOfFolder.\
-  frontend-app-main.\
-  server-main.\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frontend-app-main.\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;server-main.\
   
 
 ## Quick start with project.
