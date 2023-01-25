@@ -17,7 +17,7 @@ Wrote in terminal
 
 If u have problem with folder types just change name of folder in paths -> types -> :
 
-### `{
+{
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
@@ -26,7 +26,7 @@ If u have problem with folder types just change name of folder in paths -> types
       ]
     }
   }
-}`
+}
 
 ## Available Scripts in front-app
 
