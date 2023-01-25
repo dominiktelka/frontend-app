@@ -13,21 +13,6 @@ fronte-app & server.
 Wrote in terminal 
 ### `npm install`
 
-## Problem with folder types
-
-If u have problem with folder types just change name of folder in paths -> types -> :
-
-{
-  "compilerOptions": {
-    "baseUrl": ".",
-    "paths": {
-      "types": [
-        "../server-main/types"
-      ]
-    }
-  }
-}
-
 ## Available Scripts in front-app
 
 In the project directory, you can run:
